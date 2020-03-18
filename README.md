@@ -8,7 +8,7 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 
 ## 2020-03-18
 
-1. Added "active" and "active-diff" (active = confirmed - deaths - recovered) as was suggested by @impredicative
+1. Added "active" and "active-diff" (active = confirmed - deaths - recovered) as was suggested by [impredicative](https://github.com/impredicative)
 
 ## 2020-03-16
 
