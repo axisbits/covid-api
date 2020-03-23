@@ -6,6 +6,10 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 
 # Change log
 
+## 2020-03-23
+
+1. "mortality" changed to "fatality_rate", as was suggested by [ezanardi](https://github.com/ezanardi)
+
 ## 2020-03-19
 
 1. Added "mortality" = deaths / confirmed, as was suggested by [impredicative](https://github.com/impredicative)
