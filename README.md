@@ -4,10 +4,6 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 #### Website - https://covid-api.com
 #### Documentation - https://covid-api.com/api
 
-# Important
-
-As for the data structure [update](https://github.com/CSSEGISandData/COVID-19/issues/1250), we need some time to rewrite the processing logic. Will be done today, 2020-03-24.
-
 # Change log
 
 ## 2020-03-23
