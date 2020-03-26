@@ -6,8 +6,13 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 
 # Change log
 
-## 2020-03-23
+## 2020-03-26
 
+1. Added confirmed and deaths data for the US cities. Arrays of cities are added to each state. 
+2. Data for recovered and active cases will not be provided for US states any longer, as Johns Hopkins CSSE will not update it. For all other countries and territories, this data is still present.
+
+## 2020-03-23
+  
 1. "mortality" changed to "fatality_rate", as was suggested by [ezanardi](https://github.com/ezanardi)
 
 ## 2020-03-19
