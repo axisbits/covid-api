@@ -9,7 +9,7 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 ## 2020-03-26
 
 1. Added confirmed and deaths data for the US cities. Arrays of cities are added to each state. 
-2. Data for recovered and active cases will not be provided for US states any longer, as Johns Hopkins CSSE will not update it. For all other countries and territories, this data is still present.
+2. Data for recovered cases for US and Canada cases at the state/province level is consolidated under a province named "Recovered". This is because Johns Hopkins CSSE does not update it at the state/province level for US and Canada. For all other countries and territories, this data is still present.
 
 ## 2020-03-23
   
