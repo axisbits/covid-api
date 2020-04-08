@@ -8,7 +8,7 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 
 ## 2020-04-08
 
-1. Added new endpoint - total data for the entire world for particular date. Example - https://covid-api.com/api/reports/total?date=2020-04-07
+1. Added new endpoint - total data for the entire world for particular date, as was suggested by [mgfcf](https://github.com/mgfcf). Example - https://covid-api.com/api/reports/total?date=2020-04-07. 
 
 
 ## 2020-03-26
