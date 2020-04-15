@@ -6,6 +6,17 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 
 # Change log
 
+## 2020-04-15
+
+1. Added following fields to the /reports/total endpoint: 
+    - date
+    - last_update
+    - recovered
+    - recovered_diff
+    - active
+    - active_diff
+    - fatality_rate 
+
 ## 2020-04-08
 
 1. Added new endpoint - total data for the entire world for particular date, as was suggested by [mgfcf](https://github.com/mgfcf). Example - https://covid-api.com/api/reports/total?date=2020-04-07. 
