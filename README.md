@@ -6,6 +6,11 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 
 # Change log
 
+## 2020-04-17
+
+
+1. Changed /reports/total query parameters - "date" is now optional. If not provided, the data for the latest date will be returned.
+
 ## 2020-04-15
 
 1. Added following fields to the /reports/total endpoint: 
