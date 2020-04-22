@@ -4,10 +4,14 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 #### Website - https://covid-api.com
 #### Documentation - https://covid-api.com/api
 
-# Change log
+# Change 
+
+## 2020-04-22
+
+
+1. Added filter by city_name to /reports endpoint. Note that currently city data is available for the USA only.
 
 ## 2020-04-17
-
 
 1. Changed /reports/total query parameters - "date" is now optional. If not provided, the data for the latest date will be returned.
 
