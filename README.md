@@ -6,6 +6,12 @@ Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISand
 
 # Changelog
 
+## 2021-04-09
+
+1. Added optional parameters of sorting and pagination to /regions and /provinces endpoints.
+2. Added optional parameters of sorting and pagination of regions to the /reports endpoint.
+3. Added optional filter by ISO to the /reports/total endpoint. Please note that the calculation is done as a sum of statistic numbers across all regions within the country that may include overseas and dependent territories.
+
 ## 2020-04-22
 
 1. Added filter by city_name to /reports endpoint. Note that currently city data is available for the USA only.
