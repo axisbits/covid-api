@@ -1,3 +1,6 @@
+# Important
+On March 10, 2023, Johns Hopkins CSSE stopped publishing data on Covid statistics on their GitHub Repository. 
+This API continues to provide historical data until March 10. 2023, but no new data will be available.
 # covid-api
 Public API for Covid-19 data by Johns Hopkins CSSE https://github.com/CSSEGISandData/COVID-19. 
 
